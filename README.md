@@ -12,3 +12,5 @@ Responsive design (works on mobile & desktop)
 Clear button to reset calculations
 
 User-friendly UI with interactive buttons
+
+![Calculator Screenshot](assets/screenshot.png)
