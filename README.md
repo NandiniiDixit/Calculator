@@ -13,4 +13,4 @@ Clear button to reset calculations
 
 User-friendly UI with interactive buttons
 
-![Calculator Screenshot](assets/screenshot.png)
+![Calculator Screenshot](screenshot.png)
